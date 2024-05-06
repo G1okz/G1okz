@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mcr_a_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mcr_a_15" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/miguel reyna cañadillas](https://www.linkedin.com/in/miguel-reyna-ca%C3%B1adillas-90407822a/)" (https://www.linkedin.com/in/miguel-reyna-ca%C3%B1adillas-90407822a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel reyna cañadillas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miguel-reyna-ca%C3%B1adillas-90407822a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel reyna cañadillas" height="30" width="40" /></a>
 <a href="https://instagram.com/mcr_a.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcr_a.15" height="30" width="40" /></a>
 </p>
 
